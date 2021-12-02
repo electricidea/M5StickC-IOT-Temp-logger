@@ -10,7 +10,8 @@
  * Hague Nusseck @ electricidea
  * v0.5 08.Mar.2020
  * 
- * 
+ * code on github:
+ * https://github.com/electricidea/M5StickC-IOT-Temp-logger
  * 
  * https://circusofthings.com/
  * for more information about Circus-of-Things:
